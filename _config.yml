@@ -26,9 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Yunpeng Xu"
   pronouns         : # example: "she/her"
-  bio              : "I am currently a first-year PhD student in THU-HAS Lab at the Department of Electronic Engineering,
-    Tsinghua University. My research interests include general security issues, especially on network/RDMA security, confidential computing and side-channel security."
-  location         : "Room 6-108, Rohm Building, Tsinghua University, Beijing, China"
+  bio              : "First-year PhD Student at THU :)"
+  location         : "Room 6-108, Rohm Building"
   employer         : "Tsinghua University"
   uri              : # URL
   email            : "xyp24@mails.tsinghua.edu.cn"
